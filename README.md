@@ -15,7 +15,3 @@ How it works:
 - A variable is initialized to store the total sum.
 - The program loops from 1 to 50 and adds each number to the total.
 - Finally, it prints the sum.
-
-## Files Included
-- `even_odd.py` – Script to check if a number is even or odd.
-- `sum_1_to_50.py` – Script to calculate the sum from 1 to 50.
