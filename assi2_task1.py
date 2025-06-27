@@ -9,3 +9,7 @@ if num%2==0:
     print("The number",num, "is even")
 else:
     print("The number",num, "is odd")
+
+# output:
+#    Enter a number to check even/odd : 20
+#    The number 20 is even
